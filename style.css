@@ -42,7 +42,7 @@ a:hover {
 .profile-img {
     display: block;
     margin: 20px auto;
-    max-width: 80px; /* Adjust size as needed */
+    max-width: 150px; /* Adjust size as needed */
     border: 8px solid #f4ecd8; /* Frame color */
     outline: 2px solid #3d2b1f; /* Thin outer border */
     box-shadow: 0 4px 8px rgba(0,0,0,0.5);
