@@ -63,3 +63,27 @@ a:hover {
     margin-top: -10px;
     margin-bottom: 20px;
 }
+
+/* Circular Character Icons */
+.char-icon {
+    width: 40px;          /* Size of the icon */
+    height: 40px;
+    border-radius: 50%;    /* Makes it a circle */
+    object-fit: cover;     /* Prevents stretching the face */
+    vertical-align: middle;
+    margin-right: 15px;    /* Space between image and name */
+    border: 2px solid #3d2b1f; /* Small ink-colored border */
+    
+    /* Optional: keep the vintage filter to match the site */
+    filter: sepia(0.6) contrast(1.1);
+}
+
+/* Removes the bullet point so the icons look cleaner */
+ul.character-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul.character-list li {
+    margin-bottom: 15px; /* Spacing between characters */
+}
