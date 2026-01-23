@@ -37,3 +37,29 @@ a:hover {
     font-weight: bold;
     margin: 20px 0;
 }
+
+/* Vintage Photo Style */
+.profile-img {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px; /* Adjust size as needed */
+    border: 8px solid #f4ecd8; /* Frame color */
+    outline: 2px solid #3d2b1f; /* Thin outer border */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+    
+    /* This makes any modern photo look like an old 1870s print */
+    filter: sepia(0.8) contrast(1.2) brightness(0.9);
+    transition: filter 0.5s;
+}
+
+.profile-img:hover {
+    filter: none; /* Shows the original color when you hover over it */
+}
+
+.caption {
+    text-align: center;
+    font-size: 0.8em;
+    font-style: italic;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
