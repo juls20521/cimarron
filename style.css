@@ -1,0 +1,39 @@
+/* style.css */
+body {
+    background-color: #f4ecd8; /* Aged paper color */
+    color: #3d2b1f;            /* Dark ink color */
+    font-family: "Courier New", Courier, monospace; /* Typewriter feel */
+    line-height: 1.6;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    border: 2px solid #d2b48c;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    border-bottom: 2px solid #3d2b1f;
+    letter-spacing: 2px;
+}
+
+a {
+    color: #8b4513;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #a0522d;
+}
+
+.stamp {
+    border: 3px solid #7d2a2a;
+    color: #7d2a2a;
+    display: inline-block;
+    padding: 5px 10px;
+    transform: rotate(-5deg);
+    font-weight: bold;
+    margin: 20px 0;
+}
