@@ -87,3 +87,25 @@ ul.character-list {
 ul.character-list li {
     margin-bottom: 15px; /* Spacing between characters */
 }
+
+
+/* Spoiler / Details Styling */
+details.spoiler {
+    background-color: rgba(61, 43, 31, 0.05); /* Very faint brown tint */
+    border: 1px dashed #3d2b1f;
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+details.spoiler summary {
+    font-weight: bold;
+    color: #8b0000; /* Dark red to indicate a warning */
+    outline: none;
+}
+
+details.spoiler p {
+    margin-top: 10px;
+    font-style: italic;
+    color: #3d2b1f;
+}
