@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gideon Merritt</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--<div class="stamp">OFFICIAL RECORDS: 1875</div>-->
+    <h1>Gideon Merritt</h1>
+    <p><em>Cart Driver & Crew Boss at Brixton Salt Works</em></p>
+
+    <img src="https://m.media-amazon.com/images/M/MV5BNTAyMjU4ZDUtMDZkMy00MWI0LWExNzMtZGQ3ZWI3YzE1YTRlXkEyXkFqcGc@._V1_QL75_UX328_.jpg" 
+         alt="Gideon Merritt" 
+         class="profile-img">
+    <p class="caption">Subject: Gideon Merritt</p>
+
+    <hr>
+
+    <h2>Basic Information</h2>
+    <ul>
+        <li><strong>Character Name:</strong> Gideon Amos Merritt</li>
+        <li><strong>Nickname:</strong> Brixton's Dog</li>
+        <li><strong>Hometown:</strong> Paris, Kentucky </li>
+        <li><strong>Occupation:</strong> Cart Driver & Crew Boss at Brixton Salt Works </li>
+        <li><strong>Age:</strong> 33</li>
+        <li><strong>Relationship Status:</strong> Unwed </li>
+    </ul>
+
+    <h2>Appearance</h2>
+    <p>Lean, with salt scars on his hands. He keeps his beard cut short and his shirt buttoned to the throat no matter the heat. He wears an sweat-stained army hat with a cracked brim that the overseer lets him keep. Face claim: Aldis Hodge</p>
+
+    <h2>Personality</h2>
+    <ul>
+      <li><strong>Patient:</strong> He's always bee good at delaying gratification and biding his time. </li>
+      <li><strong>Burdened:</strong> He has rationed water and driven tired people back onto the flats. He hates it and does not ask anyone to forgive him for it.</li>
+      <li><strong>Guarded:</strong> He rarely talks about himself or speaks his mind, at least not there's some trust.  And trust is in short supply out here. </li>
+      <li><strong>Dry Humor:</strong> It sometimes surfaces at inappropriate moments.</li>
+    </ul>
+
+  <h2>Motivations & Disposition</h2>
+    <p><strong>Desires:</strong> To walk out of the Playas Valley with every captive who can stand, and to reach Fort Bayard with enough proof that the army cannot look away.</p>
+    <p><strong>Secrets:</strong> He knows the location of two natural rock tanks (tinajas) in the Little Hatchet Mountains from his army days. He has been stealing water a little at a time into a canteen he stole months ago. He has also seen where Doña Ochoa keeps the Company ledger.</p>
+    <p><strong>Fears:</strong> Dying in chains he already broke free of once. Being the reason someone else dies of thirst.</p>
+
+  <h2>Biography</h2>
+
+  <p><strong>1842:</strong> Born enslaved on a hemp farm outside Paris, Kentucky, the middle of three children. His mother, Hester, works the fields. His father, Moses, belongs to a neighboring farm and is allowed to visit on Saturday nights. Gideon grows up breaking hemp in the cold months and learning scripture by ear in the quarters on Sundays.</p>
+  
+  <p><strong>1849:</strong> Cholera sweeps through Kentucky. His mother dies of it. His older sister Hannah, eleven, becomes the one who keeps him and his little brother Caleb in line.</p>
+  
+  <p><strong>1852:</strong> Put to work with the mule teams and hauling baled hemp down to the river landing at Maysville. He has a gift for animals and for reading a road, and the overseer starts trusting him with a team of his own. It is the first time he learns that being useful buys a little room to breathe.</p>
+  
+  <p><strong>1854:</strong> The master falls into debt. Hannah, sixteen, is sold to a trader headed south. Gideon never sees her again.</p>
+  
+  <p><strong>1857:</strong> Caught with a scrap of newspaper, trying to puzzle out the letters, and whipped for it. He never tries again. He hides how badly he still wants to read.</p>
+  
+  <p><strong>1861-1864:</strong> Remains enslaved for most of the war. In 1862 Caleb runs for a Union camp, but is handed back to the master by the soldiers there.</p>
+  
+  <p><strong>1865:</strong> When the army finally opens enlistment to enslaved men in Kentucky, Gideon walks off the farm at night and enlists at Louisville in the 125th U.S. Colored Infantry. Signing his name with an X makes him free. The war ends before the regiment ever sees battle.</p>
+  
+  <p><strong>1866-1867:</strong> The 125th is sent west to New Mexico Territory. Gideon helps raise the first walls of Fort Bayard near Silver City and spends the next year on escort duty and patrols across the southern ranges. An old Mexican guide shows the detail where the natural rock tanks hold rainwater in the Little Hatchets.  He musters out in 1867.</p>
+  
+  <p><strong>1868-1873:</strong> Cuts timber, drives mules, and hires on as a freighter's hand around Silver City and the mining camps. He keeps to himself, works hard, and saves toward a team and wagon of his own.</p>
+
+  <p><strong>Spring 1874:</strong> Word comes that the CRC is pushing west and paying good money for experienced teamsters. Gideon sells what he does not need and heads out to sign on. Camped alone one night, he shares a fire and a pipe with a big, friendly freighter who calls himself Grizzly. He wakes up in irons. He is one of Grizzly's first deliveries to Brixton Salt.</p>
+
+  <p><strong>Summer 1874:</strong> A young laborer named Abel runs. Brixton cuts the water for the entire barracks for two days. Old Ezra, who had taught Gideon how to sew sacks without splitting his fingers, dies in the heat. Abel is brought back across the back of a mule.</p>
+
+  <p><strong>1875:</strong> He climbs the ladder by being obedient, useful, and never trouble. He's made a cart driver, then a crew boss. The other captives start calling him Brixton's dog.  But he's still biding his time, patiently waiting the right oppportunity. </p>
+  
+    <br>
+    <a href="index.html">← Return to Registry</a>
+</body>
+</html>
